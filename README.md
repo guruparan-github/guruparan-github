@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning AI/ML
 - 💞️ I’m looking to collaborate on AI/ML, Simplifying the tech for novice users
 - 📫 How to reach me ... mailguruparan AT gmail
+- This page is hosted at https://mit-guruparan.s3.amazonaws.com/hello.html
 
 <!---
 guruparan-github/guruparan-github is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
